@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name : staging 
+    database: hale-carport-376812
+    schema : DE_zoomcamp
+
+    tables :
+      - name: taxi
+
